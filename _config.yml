@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dave"
-  avatar           : "profile.png"
+  name             : "Dave Moffat"
+  avatar           : "headshot.jpg"
   bio              : "AI and ML Research Scientist"
   location         : "Plymouth, UK"
   employer         : "Plymouth Marine Laboratory"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/djmoffat/"
   orcid            : "https://orcid.org/0000-0003-4885-7276"
   pinterest        :
   soundcloud       :
