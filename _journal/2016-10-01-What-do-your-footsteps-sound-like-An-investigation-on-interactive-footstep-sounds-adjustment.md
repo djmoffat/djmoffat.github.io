@@ -1,10 +1,10 @@
 ---
-title: "WHAT DO YOUR FOOTSTEPS SOUND LIKE? AN INVESTIGATION ON INTERACTIVE FOOTSTEP SOUNDS ADJUSTMENT"
+title: "What do your footsteps sound like? An investigation on interactive footstep sounds adjustment"
 collection: journal
 permalink: /publication/2016-10-01-What-do-your-footsteps-sound-like-An-investigation-on-interactive-footstep-sounds-adjustment
 date: 2016-10-01
-venue: 'APPLIED ACOUSTICS'
+venue: 'Applied Acoustics'
 paperurl: 'http://www.sciencedirect.com/science/article/pii/S0003682X16300913'
-citation: ' LUCA TURCHET,  DAVID MOFFAT,  ANA TAJADURA-JIM{\&amp;APOS;E}NEZ,  JOSHUA REISS,  TONY STOCKMAN, &quot;WHAT DO YOUR FOOTSTEPS SOUND LIKE? AN INVESTIGATION ON INTERACTIVE FOOTSTEP SOUNDS ADJUSTMENT.&quot; APPLIED ACOUSTICS, 2016.'
+citation: ' Luca Turchet,  David Moffat,  Ana Tajadura-Jim{\&amp;apos;e}nez,  Joshua Reiss,  Tony Stockman, &quot;What do your footsteps sound like? An investigation on interactive footstep sounds adjustment.&quot; Applied Acoustics, 2016.'
 ---
 [Access paper here](http://www.sciencedirect.com/science/article/pii/S0003682X16300913){:target="_blank"}

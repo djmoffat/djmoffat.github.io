@@ -1,10 +1,10 @@
 ---
-title: "IMPLEMENTATION AND ASSESSMENT OF JOINT SOURCE SEPARATION AND DEREVERBERATION"
+title: "Implementation and Assessment of Joint Source Separation and Dereverberation"
 collection: conference
 permalink: /publication/2016-02-01-Implementation-and-Assessment-of-Joint-Source-Separation-and-Dereverberation
 date: 2016-02-01
-venue: 'IN THE PROCEEDINGS OF PROCEEDINGS OF THE AUDIO ENGINEERING SOCIETY CONFERENCE: 60TH INTERNATIONAL CONFERENCE: DREAMS (DEREVERBERATION AND REVERBERATION OF AUDIO, MUSIC, AND SPEECH)'
+venue: 'In the proceedings of Proceedings of the Audio Engineering Society Conference: 60th International Conference: DREAMS (Dereverberation and Reverberation of Audio, Music, and Speech)'
 paperurl: 'https://dx.doi.org/10.17743/aesconf.2016.978-1-942220-07-7'
-citation: ' DAVID MOFFAT,  JOSHUA REISS, &quot;IMPLEMENTATION AND ASSESSMENT OF JOINT SOURCE SEPARATION AND DEREVERBERATION.&quot; IN THE PROCEEDINGS OF PROCEEDINGS OF THE AUDIO ENGINEERING SOCIETY CONFERENCE: 60TH INTERNATIONAL CONFERENCE: DREAMS (DEREVERBERATION AND REVERBERATION OF AUDIO, MUSIC, AND SPEECH), 2016.'
+citation: ' David Moffat,  Joshua Reiss, &quot;Implementation and Assessment of Joint Source Separation and Dereverberation.&quot; In the proceedings of Proceedings of the Audio Engineering Society Conference: 60th International Conference: DREAMS (Dereverberation and Reverberation of Audio, Music, and Speech), 2016.'
 ---
 [Access paper here](https://dx.doi.org/10.17743/aesconf.2016.978-1-942220-07-7){:target="_blank"}

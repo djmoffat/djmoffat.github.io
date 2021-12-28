@@ -1,9 +1,9 @@
 ---
-title: "THE IMPACT OF COMPRESSOR BALLISTICS ON THE PERCEIVED STYLE OF MUSIC"
+title: "The impact of compressor ballistics on the perceived style of music"
 collection: conference
 permalink: /publication/2018-10-01-The-impact-of-compressor-ballistics-on-the-perceived-style-of-music
 date: 2018-10-01
-venue: 'IN THE PROCEEDINGS OF AUDIO ENGINEERING SOCIETY CONVENTION 145'
-citation: ' GARY BROMHAM,  DAVID MOFFAT,  GY{\&amp;QUOT;O}RGY FAZEKAS,  MATHIEU BARTHET,  MARK SANDLER, &quot;THE IMPACT OF COMPRESSOR BALLISTICS ON THE PERCEIVED STYLE OF MUSIC.&quot; IN THE PROCEEDINGS OF AUDIO ENGINEERING SOCIETY CONVENTION 145, 2018.'
+venue: 'In the proceedings of Audio Engineering Society Convention 145'
+citation: ' Gary Bromham,  David Moffat,  Gy{\&amp;quot;o}rgy Fazekas,  Mathieu Barthet,  Mark Sandler, &quot;The impact of compressor ballistics on the perceived style of music.&quot; In the proceedings of Audio Engineering Society Convention 145, 2018.'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=The+impact+of+compressor+ballistics+on+the+perceived+style+of+music){:target="_blank"} for full citation

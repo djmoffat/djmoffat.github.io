@@ -1,9 +1,9 @@
 ---
-title: "MODAL SYNTHESIS OF WEAPON SOUNDS"
+title: "Modal Synthesis of Weapon Sounds"
 collection: conference
 permalink: /publication/2016-02-01-Modal-Synthesis-of-Weapon-Sounds
 date: 2016-02-01
-venue: 'IN THE PROCEEDINGS OF PROCEEDINGS OF THE AUDIO ENGINEERING SOCIETY CONFERENCE: 61ST INTERNATIONAL CONFERENCE: AUDIO FOR GAMES'
-citation: ' LUCAS MENGUAL,  DAVID MOFFAT,  JOSHUA REISS, &quot;MODAL SYNTHESIS OF WEAPON SOUNDS.&quot; IN THE PROCEEDINGS OF PROCEEDINGS OF THE AUDIO ENGINEERING SOCIETY CONFERENCE: 61ST INTERNATIONAL CONFERENCE: AUDIO FOR GAMES, 2016.'
+venue: 'In the proceedings of Proceedings of the Audio Engineering Society Conference: 61st International Conference: Audio for Games'
+citation: ' Lucas Mengual,  David Moffat,  Joshua Reiss, &quot;Modal Synthesis of Weapon Sounds.&quot; In the proceedings of Proceedings of the Audio Engineering Society Conference: 61st International Conference: Audio for Games, 2016.'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Modal+Synthesis+of+Weapon+Sounds){:target="_blank"} for full citation
