@@ -60,10 +60,20 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+<!--   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
+### Journal Publications
+<ul>{% for post in site.journal reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+### Conference Publications
+<ul>{% for post in site.conference reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
 Talks
 ======
   <ul>{% for post in site.talks %}
