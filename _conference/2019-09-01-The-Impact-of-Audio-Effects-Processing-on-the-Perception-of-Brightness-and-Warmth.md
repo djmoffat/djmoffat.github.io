@@ -1,10 +1,10 @@
 ---
-title: "The Impact of Audio Effects Processing on the Perception of Brightness and Warmth"
+title: "THE IMPACT OF AUDIO EFFECTS PROCESSING ON THE PERCEPTION OF BRIGHTNESS AND WARMTH"
 collection: conference
 permalink: /publication/2019-09-01-The-Impact-of-Audio-Effects-Processing-on-the-Perception-of-Brightness-and-Warmth
 date: 2019-09-01
-venue: 'In the proceedings of ACM Audio Mostly Conference'
+venue: 'IN THE PROCEEDINGS OF ACM AUDIO MOSTLY CONFERENCE'
 paperurl: 'https://doi.org/10.1145/3356590.3356618'
-citation: ' Gary Bromham,  David Moffat,  Mathieu Barthet,  Anne Danielsen,  Gy{\&amp;quot;o}rgy Fazekas, &quot;The Impact of Audio Effects Processing on the Perception of Brightness and Warmth.&quot; In the proceedings of ACM Audio Mostly Conference, 2019.'
+citation: ' GARY BROMHAM,  DAVID MOFFAT,  MATHIEU BARTHET,  ANNE DANIELSEN,  GY{\&amp;QUOT;O}RGY FAZEKAS, &quot;THE IMPACT OF AUDIO EFFECTS PROCESSING ON THE PERCEPTION OF BRIGHTNESS AND WARMTH.&quot; IN THE PROCEEDINGS OF ACM AUDIO MOSTLY CONFERENCE, 2019.'
 ---
 [Access paper here](https://doi.org/10.1145/3356590.3356618){:target="_blank"}

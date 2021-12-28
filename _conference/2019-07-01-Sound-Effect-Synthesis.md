@@ -1,9 +1,9 @@
 ---
-title: "Sound Effect Synthesis"
+title: "SOUND EFFECT SYNTHESIS"
 collection: conference
 permalink: /publication/2019-07-01-Sound-Effect-Synthesis
 date: 2019-07-01
-venue: 'In the proceedings of Foundations in Sound Design for Interactive Media: A Multidisciplinary Approach'
-citation: ' David Moffat,  Rod Selfridge,  Joshua Reiss, &quot;Sound Effect Synthesis.&quot; In the proceedings of Foundations in Sound Design for Interactive Media: A Multidisciplinary Approach, 2019.'
+venue: 'IN THE PROCEEDINGS OF FOUNDATIONS IN SOUND DESIGN FOR INTERACTIVE MEDIA: A MULTIDISCIPLINARY APPROACH'
+citation: ' DAVID MOFFAT,  ROD SELFRIDGE,  JOSHUA REISS, &quot;SOUND EFFECT SYNTHESIS.&quot; IN THE PROCEEDINGS OF FOUNDATIONS IN SOUND DESIGN FOR INTERACTIVE MEDIA: A MULTIDISCIPLINARY APPROACH, 2019.'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Sound+Effect+Synthesis){:target="_blank"} for full citation
