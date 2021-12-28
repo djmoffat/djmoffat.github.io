@@ -7,8 +7,6 @@ redirect_from:
   - /code.html
 ---
 
-# Software
-
 I have worked on developing a bunch of different software. Here is a list of some of the different code projects I have worked on.
 
 
