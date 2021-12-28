@@ -26,11 +26,11 @@ import re
 
 #todo: incorporate different collection types rather than a catch all publications, requires other changes to template
 publist = {
-    "proceeding": {
+    "conference": {
         "file" : "publications.bib",
         "venuekey": "booktitle",
         "venue-pretext": "In the proceedings of ",
-        "collection" : {"name":"publications",
+        "collection" : {"name":"conference",
                         "permalink":"/publication/"}
         
     },
@@ -38,7 +38,7 @@ publist = {
         "file": "publications.bib",
         "venuekey" : "journal",
         "venue-pretext" : "",
-        "collection" : {"name":"publications",
+        "collection" : {"name":"journal",
                         "permalink":"/publication/"}
     } 
 }
@@ -46,12 +46,22 @@ publist = {
 html_escape_table = {
     "&": "&amp;",
     '"': "&quot;",
-    "'": "&apos;",
-    '{\"o}': "&#246;"
+    "'": "&apos;"
+    }
+
+swap_chars={ # Slashes need escaping, to show up in text, for some reason...
+    '{\\"o}': "ö",
+    "{\\'e}": "é",
+    "\\'{i}": 'í'
     }
 
 def html_escape(text):
     """Produce entities within text."""
+
+    for key in swap_chars.keys():
+        # print(key, swap_chars[key])
+        text = text.replace(key, swap_chars[key])
+
     return "".join(html_escape_table.get(c,c) for c in text)
 
 
@@ -101,7 +111,7 @@ for pubsource in publist:
 
             #citation authors - todo - add highlighting for primary author?
             for author in bibdata.entries[bib_id].persons["author"]:
-                citation = citation+" "+author.first_names[0]+" "+author.last_names[0]+", "
+                citation = citation+" "+html_escape(author.first_names[0])+" "+html_escape(author.last_names[0])+", "
 
             #citation title
             citation = citation + "\"" + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + ".\""
@@ -131,9 +141,13 @@ for pubsource in publist:
             md += "\nvenue: '" + html_escape(venue) + "'"
             
             url = False
-            if "url" in b.keys():
+            if "url"  in b.keys():
                 if len(str(b["url"])) > 5:
                     md += "\npaperurl: '" + b["url"] + "'"
+                    url = True
+            elif "bdsk-url-1"  in b.keys():
+                if len(str(b["bdsk-url-1"])) > 5:
+                    md += "\npaperurl: '" + b["bdsk-url-1"] + "'"
                     url = True
 
             md += "\ncitation: '" + html_escape(citation) + "'"
@@ -146,13 +160,13 @@ for pubsource in publist:
                 md += "\n" + html_escape(b["note"]) + "\n"
 
             if url:
-                md += "\n[Access paper here](" + b["url"] + "){:target=\"_blank\"}\n" 
+                md += "\n[Access paper here](" + b["bdsk-url-1"] + "){:target=\"_blank\"}\n" 
             else:
                 md += "\nUse [Google Scholar](https://scholar.google.com/scholar?q="+html.escape(clean_title.replace("-","+"))+"){:target=\"_blank\"} for full citation"
 
             md_filename = os.path.basename(md_filename)
 
-            with open("../_publications/" + md_filename, 'w') as f:
+            with open(f"../_{pubsource}/" + md_filename, 'w') as f:
                 f.write(md)
             print(f'SUCESSFULLY PARSED {bib_id}: \"', b["title"][:60],"..."*(len(b['title'])>60),"\"")
         # field may not exist for a reference
