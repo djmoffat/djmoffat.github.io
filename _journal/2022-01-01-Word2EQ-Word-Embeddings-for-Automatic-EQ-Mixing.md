@@ -1,6 +1,7 @@
 ---
 title: "Word2EQ: Word Embeddings for Automatic EQ Mixing"
 collection: journal
+link: /posts/2022/03/Word2EQ/
 permalink: /publication/2022-01-01-Word2EQ-Word-Embeddings-for-Automatic-EQ-Mixing
 date: 2022-01-01
 venue: 'Journal of the Audio Engineering Society'
