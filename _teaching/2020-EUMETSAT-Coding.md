@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "EUMETSAT Training - Programming for Earth Observation"
 collection: teaching
 type: "EUMETSAT short course"
 permalink: /teaching/2020-EO-Coding
