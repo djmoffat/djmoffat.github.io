@@ -1,7 +1,7 @@
 ---
 title: "Other Teaching"
 collection: teaching
-type: "Workshop"
+type: "Teaching Associate"
 permalink: /teaching/Other
 venue: "Queen Mary University of London, Teaching"
 date: 2018-01-01
