@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am Dave Moffat. I am an Artifical Intelligence (AI) and Machine Learning (ML) Research Scientist at [PML](https://pml.ac.uk). I work on applying Artifical Intelligence and Machine Learning techniques to Earth Observation data to formulate a better understanding of the natural world.
+Hello, I am Dave Moffat. I am an Artificial Intelligence (AI) and Machine Learning (ML) Research Scientist at [Plymouth Marine Laboratory](https://pml.ac.uk). I work on applying Artifical Intelligence and Machine Learning techniques to Earth Observation data to formulate a better understanding of the natural world.
 
 My background is in applied AI, with a focus on audio and time series data. I studied Artificial Intelligence and Computer Science BSc. at Edinburgh University, and then went on to study studying Digital Music Processing MSc. at Queen Mary University of London, followed by a Computer Science PhD at the same institution. Since then, I have worked as a post-doctoral researcher and university lecturer, before moving to PML. 
 
