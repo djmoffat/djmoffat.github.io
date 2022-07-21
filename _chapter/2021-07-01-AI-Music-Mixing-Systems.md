@@ -1,6 +1,6 @@
 ---
 title: "AI Music Mixing Systems"
-collection: conference
+collection: chapter
 permalink: /publication/2021-07-01-AI-Music-Mixing-Systems
 date: 2021-07-01
 venue: 'In the proceedings of Handbook of Artificial Intelligence for Music'

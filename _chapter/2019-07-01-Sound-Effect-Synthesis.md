@@ -1,6 +1,6 @@
 ---
 title: "Sound Effect Synthesis"
-collection: conference
+collection: chapter
 permalink: /publication/2019-07-01-Sound-Effect-Synthesis
 date: 2019-07-01
 venue: 'In the proceedings of Foundations in Sound Design for Interactive Media: A Multidisciplinary Approach'

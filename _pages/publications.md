@@ -20,6 +20,11 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
   {% include archive-single.html %}
 {% endfor %}
 
+## Book Chapters
+{% for post in site.chapter reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 ## Conference Publications
 {% for post in site.conference reversed %}
   {% include archive-single.html %}
