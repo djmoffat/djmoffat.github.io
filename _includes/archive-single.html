@@ -53,13 +53,14 @@
     {% endif %} -->
     
     {% if post.citation and post.doi %}
-      <p>{{ post.citation }} <a href="{{ post.doi }}"><u>{{ post.doi }}</u></a></p>
+      <p>{{ post.citation }} <a href="{{ post.doi }}"><u>{{ post.doi }}</u></a>
     {% elsif post.citation %}
-      <p>{{ post.citation }} </p>
+      <p>{{ post.citation }}
     {% endif %}
     {% if post.paperurl %}
       Download <a href=" {{ post.paperurl }} "><u>here</u></a>
     {% endif %}
+    </p>
 
   </article>
 </div>
