@@ -8,4 +8,3 @@ venue: 'Journal of the Audio Engineering Society'
 paperurl: 'https://arxiv.org/abs/2202.08898'
 citation: ' Satvik Venkatesh,  David Moffat,  Eduardo Miranda, &quot;Word Embeddings for Automatic Equalization in Audio Mixing.&quot; 	Journal of the Audio Engineering Society, 2022. In Press'
 ---
-[Access paper here](https://arxiv.org/abs/2202.08898){:target="_blank"}
