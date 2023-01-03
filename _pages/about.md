@@ -7,10 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Dr. David Moffat is an Artificial Intelligence (AI) and Machine Learning Data Scientist at [Plymouth Marine Laboratory](https://pml.ac.uk), who work on applying Artificial Intelligence and Machine Learning techniques to Earth Observation data to formulate a better understanding of the natural world. 
 
+His background is in applied AI, with a focus on signal processing and time series data. He studied Artificial Intelligence and Computer Science BSc. at Edinburgh University, and then went on to study Signal Processing and Computer Science at Queen Mary University of London. Since then, he have worked as a post-doctoral researcher and university lecturer, before moving to PML. He has also run six different AI4EO training courses, and is currently developing a fully online AI4EO training course. David has previous experience in technical support roles, and as a project manager, along academic research experience. 
+
+<!-- 
 Hello, I am Dave Moffat. I am an Artificial Intelligence (AI) and Machine Learning (ML) Research Scientist at [Plymouth Marine Laboratory](https://pml.ac.uk). I work on applying Artifical Intelligence and Machine Learning techniques to Earth Observation data to formulate a better understanding of the natural world.
 
-My background is in applied AI, with a focus on audio and time series data. I studied Artificial Intelligence and Computer Science BSc. at Edinburgh University, and then went on to study studying Digital Music Processing MSc. at Queen Mary University of London, followed by a Computer Science PhD at the same institution. Since then, I have worked as a post-doctoral researcher and university lecturer, before moving to PML. 
+My background is in applied AI, with a focus on audio and time series data. I studied Artificial Intelligence and Computer Science BSc. at Edinburgh University, and then went on to study studying Digital Music Processing MSc. at Queen Mary University of London, followed by a Computer Science PhD at the same institution. Since then, I have worked as a post-doctoral researcher and university lecturer, before moving to PML.  -->
 
 <!-- A data-driven personal website
 ======
