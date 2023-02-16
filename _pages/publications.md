@@ -17,15 +17,15 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## Journal Publications
 {% for post in site.journal reversed %}
-  {% include archive-single.html %}
+  {% include archive-single-pub.html %}
 {% endfor %}
 
 ## Book Chapters
 {% for post in site.chapter reversed %}
-  {% include archive-single.html %}
+  {% include archive-single-pub.html %}
 {% endfor %}
 
 ## Conference Publications
 {% for post in site.conference reversed %}
-  {% include archive-single.html %}
+  {% include archive-single-pub.html %}
 {% endfor %}
