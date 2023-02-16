@@ -69,16 +69,22 @@ Publications
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
+### Book Chapters
+<ul>{% for post in site.chapter reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
 ### Conference Publications
 <ul>{% for post in site.conference reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
-<!-- Talks
+
+Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
   
 Teaching
 ======
