@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.Sc. (Hons) in Artifical Intelligence and Computer Science, University of Edinburgh, 2011
-* M.Sc. in Digital Music Processing, Queen Mary University of London, 2014
-* Ph.D in Computer Science, Queen Mary University of London, 2019
+* Associate Fellow Higher Education Academy (AFHEA), July 2021
+* Ph.D in Computer Science, Queen Mary University of London, October 2019
+* Diploma in Reseracher Revelopment, Queen Mary University of London, October 2019
+* M.Sc. in Digital Music Processing, Queen Mary University of London, November 2014
+* B.Sc. (Hons) in Artifical Intelligence and Computer Science, University of Edinburgh, June 2011
+
 
 Work experience
 ======
@@ -23,9 +26,7 @@ Work experience
 
 * Lecturer in Sound and Music Computing
   * University of Plymouth, Sept. 2020 --  Sept. 2021
-  * Duties included: Engage with teaching and administrative duties on the Computing, Audio and Music Technology BSc. Programme. Teaching courses on topics including computer programming, audio engineering technology and research methods. As the programme leader for the course, I perform administrative tasks,
-  attend open days, and engage in student recruitment events. Presenting research, including outreach and
-  engagement work and grant writing.
+  * Duties included: Engage with teaching and administrative duties on the Computing, Audio and Music Technology BSc. Programme. Teaching courses on topics including computer programming, audio engineering technology and research methods. As the programme leader for the course, I perform administrative tasks, attend open days, and engage in student recruitment events. Presenting research, including outreach and engagement work and grant writing.
 
 * Postdoctoral Researcher in AI and Signal Processing
   * University of Plymouth, Nov. 2019 -- Sept. 2021
@@ -51,11 +52,10 @@ Work experience
 Skills
 ======
 * Experienced in research and engineering principals and methods, academic writing, experimental design, statistics, digital signal processing, and machine learning.
-* Teaching experience including lecturing course material up to postgraduate level, guest lecturing, involved
-* in supporting postgraduate and undergraduate project students, designing and marking coursework, and recognised Associate Fellow of the HEA (AFHEA).
+* Teaching experience including lecturing course material up to postgraduate level, guest lecturing, supporting postgraduate and undergraduate project students, developing new modules, designing and marking coursework, and recognised Associate Fellow of the HEA (AFHEA).
 * Knowledgeable in machine learning, audio signal processing and their applications in audio effects, intelligent audio production, acoustics and source separation.
 * Active within academic networks, regularly publishing within communities, performing peer review and organising academic conferences.
-* Strong programming background and experience, including C, C++, Python, Matlab, R, Pure Data, BASH scripting, LaTeX, and version control systems including Git and Mercurial.
+* Strong programming background and experience, including Python, C, C++, Matlab, Pure Data, BASH scripting, LaTeX, and version control systems including Git and Mercurial.
 * Experienced Project Manager and Supervisory roles. Technical expertise with audio event production and recording.
 
 Publications
