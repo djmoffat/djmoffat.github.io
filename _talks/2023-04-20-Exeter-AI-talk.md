@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning and Remote Sensing: An Overview of ongoing work"
 collection: talks
-type: "W0rkshop Talk"
+type: "Workshop Talk"
 permalink: /talks/2023-04-20-Exeter-AI
 venue: "Machine Learning for Earth Observation Remote Sensing with the Environment Intelligence Network"
 date: 2023-04-20
