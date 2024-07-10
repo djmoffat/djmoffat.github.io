@@ -10,7 +10,7 @@ redirect_from:
 I have worked on developing a bunch of different software. Here is a list of some of the different code projects I have worked on.
 
 
-
+* [Drone imagery and Deep Learning for detecting wild Pacific oysters](https://github.com/djmoffat/PacificOysterDetection)
 * [Python Local Requests module for web scraping](https://github.com/djmoffat/localRequest)
 * [Pretty Matlab Histograms and Graphs](https://github.com/djmoffat/MatlabPlotForAESPaper)
 * [Semantic Web Approach to Mixing Rules, using RIF](https://github.com/djmoffat/RIFMixingRules)
