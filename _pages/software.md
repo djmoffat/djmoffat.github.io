@@ -10,6 +10,7 @@ redirect_from:
 I have worked on developing a bunch of different software. Here is a list of some of the different code projects I have worked on.
 
 
+* [Prediction of K - Air Sea Gas exchange key parameters driven by sea state and wind history](https://github.com/djmoffat/air-sea-gas-prediction)
 * [Drone imagery and Deep Learning for detecting wild Pacific oysters](https://github.com/djmoffat/PacificOysterDetection)
 * [Python Local Requests module for web scraping](https://github.com/djmoffat/localRequest)
 * [Pretty Matlab Histograms and Graphs](https://github.com/djmoffat/MatlabPlotForAESPaper)
