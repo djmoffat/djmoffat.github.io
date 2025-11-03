@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Dr David Moffat is the AI Data Science Lead at Plymouth Marine Laboratory](https://pml.ac.uk), where he bridges computer science and environmental research to advance our understanding of marine ecosystems through artificial intelligence. His work focuses on developing geospatial foundation models, Earth observation systems, and computer vision techniques to monitor ocean health and biodiversity.
+Dr David Moffat is the AI Data Science Lead at [Plymouth Marine Laboratory](https://pml.ac.uk), where he bridges computer science and environmental research to advance our understanding of marine ecosystems through artificial intelligence. His work focuses on developing geospatial foundation models, Earth observation systems, and computer vision techniques to monitor ocean health and biodiversity.
 
 David leads several high-impact initiatives at the intersection of AI and marine science. As PML lead for Granite-Geospatial-Ocean Foundation Model developed with IBM Research, STFC Hartree Centre, and the University of Exeter—he has created a pioneering foundation model that analyses Sentinel-3 satellite imagery to map phytoplankton distributions and net primary production. Openly released to support global collaboration, this work improves estimates of ocean carbon absorption, a key uncertainty in climate modelling.
 
