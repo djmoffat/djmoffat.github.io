@@ -21,7 +21,7 @@ Education
 Work experience
 ======
 
-* AI and ML Research Scientist
+* AI and Data Science Lead
   * Plymouth Marine Laboratory, Sept. 2021 -- Present
 
 * Lecturer in Sound and Music Computing
