@@ -5,7 +5,7 @@ link: /posts/2026/04/ModellingPrimaryProduction/
 permalink: /publication/2026-04-10-ModellingPrimaryProduction
 date: 2026-04-10
 venue: 'Ocean Science Jubilee: reviews and perspectives'
-citation: 'Skákala, J., Sathyendranath, S., Artioli, Y., Banerjee, D. S., Bouman, H., Brewin, R. J. W., Butenschön, M., Ciavatta, S., Dutkiewicz, S., Fidai, Y., Ford, D., George, G., Guihou, K., Jönsson, B., Bačeković Koloper, M., Kovač, Ž., Krishnakumary, L., Kulk, G., Laufkötter, C., Lessin, G., Mattern, J. P., Melet, A., Mignot, A., Moffat, D., Monteiro, F., Rodriguez Bennadji, M., Rousseaux, C., Swaminathan, R., Ulloa, O., and Tjiputra, J. &quot;Modelling primary production: multitude of theories, or multitude of languages? &quot;, Ocean Science, 3.22; EGUsphere [preprint], 2026.'
+citation: 'Skákala, J., Sathyendranath, S., Artioli, Y., Banerjee, D. S., Bouman, H., Brewin, R. J. W., Butenschön, M., Ciavatta, S., Dutkiewicz, S., Fidai, Y., Ford, D., George, G., Guihou, K., Jönsson, B., Bačeković Koloper, M., Kovač, Ž., Krishnakumary, L., Kulk, G., Laufkötter, C., Lessin, G., Mattern, J. P., Melet, A., Mignot, A., Moffat, D., Monteiro, F., Rodriguez Bennadji, M., Rousseaux, C., Swaminathan, R., Ulloa, O., and Tjiputra, J. &quot;Modelling primary production: multitude of theories, or multitude of languages? &quot;, Ocean Science, 3.22; EGUsphere, 2026. 1-39'
 doi: 'https://doi.org/10.5194/os-22-1457-2026'
 paperurl: 'https://doi.org/10.5194/os-22-1457-2026'
 
