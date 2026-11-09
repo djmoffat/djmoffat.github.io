@@ -4,6 +4,7 @@ collection: talks
 type: "Invited Seminar"
 permalink: /talks/2026-11-03-machine-learning-approaches-to-the-ocean-carbon-cycle
 venue: "NCEO Science Seminar Series"
+selected_cv: true
 date: 2026-11-03
 location: "Online"
 ---

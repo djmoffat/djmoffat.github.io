@@ -15,14 +15,6 @@ AI and environmental data science research leader specialising in the developmen
 
 My research interests include machine learning for Earth observation, marine computer vision, environmental modelling, ocean biogeochemistry, foundation models, explainable AI and the development of trustworthy and reusable AI methods for environmental science.
 
-Education
-======
-* Associate Fellow Higher Education Academy (AFHEA), July 2021
-* Ph.D in Computer Science, Queen Mary University of London, October 2019
-* Diploma in Reseracher Revelopment, Queen Mary University of London, October 2019
-* M.Sc. in Digital Music Processing, Queen Mary University of London, November 2014
-* B.Sc. (Hons) in Artifical Intelligence and Computer Science, University of Edinburgh, June 2011
-
 
 Scientific Leadership and National Capability
 ======
@@ -45,6 +37,7 @@ Employment
 
 * AI and Data Science Lead
   * Plymouth Marine Laboratory, Sept. 2021 -- Present
+  * Lead the development and application of artificial intelligence and data science across marine and environmental research. Provide scientific and technical leadership in Earth observation, computer vision, environmental modelling and emerging AI approaches, alongside organisational strategy, research development, national capability, researcher development and postgraduate supervision. Lead AI activities within NEODAAS and contribute to major NERC, ESA and international research programmes.
 
 * Lecturer in Sound and Music Computing
   * University of Plymouth, Sept. 2020 --  Sept. 2021
@@ -71,6 +64,13 @@ Employment
     * Develop and implement real time processing system of Beagle Bone Black, using Bela realtime platform
     * Musical sound synthesis developer and machine learning consultant for musical interactive project
 
+Education
+======
+* Associate Fellow Higher Education Academy (AFHEA), July 2021
+* Ph.D in Computer Science, Queen Mary University of London, October 2019
+* Diploma in Reseracher Revelopment, Queen Mary University of London, October 2019
+* M.Sc. in Digital Music Processing, Queen Mary University of London, November 2014
+* B.Sc. (Hons) in Artifical Intelligence and Computer Science, University of Edinburgh, June 2011
 
 Skills
 ======
@@ -118,17 +118,27 @@ Publications
 {% endfor %}</ul>
 
 
-Talks
+
+Selected Talks
+======
+<ul>
+{% assign selected_talks = site.talks
+  | where: "selected_cv", true
+  | sort: "date"
+  | reverse %}
+{% for post in selected_talks %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}
+</ul>
+
+{{ base_path }}/talks/
+
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-<!-- Teaching
-====== 
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+   -->
 
 Teaching and Research Supervision
 ======

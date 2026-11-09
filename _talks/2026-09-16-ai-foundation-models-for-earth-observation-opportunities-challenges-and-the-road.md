@@ -4,6 +4,7 @@ collection: talks
 type: "Panel Chair and Presentation"
 permalink: /talks/2026-09-16-ai-foundation-models-for-earth-observation-opportunities-challenges-and-the-road
 venue: "UK Earth Observation Conference, University of Warwick"
+selected_cv: true
 date: 2026-09-16
 location: "Warwick, UK"
 ---

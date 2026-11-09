@@ -4,6 +4,7 @@ collection: talks
 type: "Conference Talk"
 permalink: /talks/2026-02-26-ai-model-transferability-in-marine-benthic-imagery-within-site
 venue: "Ocean Sciences Meeting"
+selected_cv: true
 date: 2026-02-26
 location: "Glasgow, UK"
 ---

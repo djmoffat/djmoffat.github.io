@@ -5,6 +5,7 @@ type: "Invited Seminar"
 permalink: /talks/2025-11-21-nerc-facilities-for-ai-and-earth-observation-project-examples-directions-and-geo
 venue: "Energy and Environment Group (EEG), University of Cambridge"
 date: 2025-11-21
+selected_cv: true
 location: "Cambridge, UK"
 event_url: "https://www.cst.cam.ac.uk/research/eeg"
 ---
