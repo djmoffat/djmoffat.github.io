@@ -9,6 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+Profile
+======
+
+AI and environmental data science research leader specialising in the development and application of artificial intelligence across Earth observation, marine science and environmental research. I lead national AI capability through NEODAAS and institutional AI and data science capability at Plymouth Marine Laboratory, combining scientific research, strategy, infrastructure, researcher development and interdisciplinary collaboration.
+
+My research interests include machine learning for Earth observation, marine computer vision, environmental modelling, ocean biogeochemistry, foundation models, explainable AI and the development of trustworthy and reusable AI methods for environmental science.
+
 Education
 ======
 * Associate Fellow Higher Education Academy (AFHEA), July 2021
@@ -18,7 +25,28 @@ Education
 * B.Sc. (Hons) in Artifical Intelligence and Computer Science, University of Edinburgh, June 2011
 
 
-Work experience
+Scientific Leadership and National Capability
+======
+
+I provide scientific and technical leadership in artificial intelligence for marine and environmental science, combining development of national research capability with leadership of interdisciplinary research, infrastructure, researcher training and organisational AI strategy.
+
+### National AI and Earth Observation Capability
+
+I lead artificial intelligence activities within the NERC Earth Observation Data Analysis and AI Service (NEODAAS), supporting the UK environmental research community in the effective application of AI and machine learning to Earth observation. This includes research co-design, specialist technical advice, training, access to scalable computing infrastructure, and the development of reusable and robust AI workflows.
+
+### AI Strategy and Research Leadership
+
+As AI and Data Science Lead at Plymouth Marine Laboratory, I lead the development of organisational AI capability and help set strategic direction for the application of AI across marine and environmental science. My research leadership spans Earth observation, marine computer vision, environmental modelling, ocean biogeochemistry, geospatial foundation models, explainable AI and responsible adoption of emerging AI technologies.
+
+### Research Development and Funding
+
+I lead and contribute to collaborative research development across NERC, ESA, EC and other national and international programmes. This includes scientific concept development, interdisciplinary team building, technical design, work-package development, project planning and budgets. I have contributed to more than 20 research proposals with a combined value of approximately £6.8M.
+
+### People and Community Leadership
+
+I provide line management, mentoring, postgraduate supervision and technical leadership for researchers working across AI and data science. I develop and deliver specialist AI and Earth-observation training for doctoral researchers, environmental scientists and the wider research community, and contribute to scientific strategy through invited talks, panels, peer review and national and international collaborations.
+
+Employment
 ======
 
 * AI and Data Science Lead
@@ -48,36 +76,31 @@ Work experience
     * Development of VST plugins using JUCE framework
     * Develop and implement real time processing system of Beagle Bone Black, using Bela realtime platform
     * Musical sound synthesis developer and machine learning consultant for musical interactive project
-  
-
-Scientific Leadership
-======
-
-I provide scientific and technical leadership in the development and application of artificial intelligence for marine and environmental science. My work combines strategic development of organisational AI capability with hands-on leadership of interdisciplinary research, infrastructure, proposals, researcher development and scientific collaboration.
-
-* **AI and data science leadership:** Lead the development of AI capability at Plymouth Marine Laboratory, setting strategic direction and supporting the application of AI across marine and environmental science. My current focus includes Earth observation, computer vision, environmental modelling, geospatial and foundation models, explainable AI and responsible adoption of emerging AI technologies.
-
-* **NERC Earth observation and AI capability:** Lead AI activities within the NERC Earth Observation Data Analysis and AI Service (NEODAAS), supporting the UK environmental research community through research co-design, specialist advice, researcher training, scalable computing and the development of reusable AI workflows.
-
-* **Research and project leadership:** Lead and contribute to multidisciplinary research across NERC, ESA and international programmes, including work in marine ecosystem monitoring, ocean colour, environmental forecasting, computer vision, model emulation and AI-enabled analysis of large environmental datasets.
-
-* **Research strategy and development:** Develop new research directions and collaborations at the intersection of AI and environmental science, including foundation models for Earth observation, marine computer vision, trustworthy and explainable AI, biogeochemical model emulation, environmental decision support and AI-ready scientific infrastructure.
-
-* **Research funding:** Develop and support collaborative research proposals, including scientific concept development, technical design, work-package leadership, project planning and budgets. Recent activity spans ESA, NERC and wider national and international environmental AI programmes.
-
-* **People and capability development:** Provide line management, mentoring, postgraduate supervision and technical leadership for researchers working across AI and data science. I also develop and deliver specialist AI and Earth-observation training for doctoral students, researchers and the wider environmental-science community.
-
-* **National and international engagement:** Contribute to wider environmental AI and Earth-observation communities through scientific working groups, invited talks, panels, peer review and collaborative strategy development.
 
 
 Skills
 ======
-* Experienced in research and engineering principals and methods, academic writing, experimental design, statistics, digital signal processing, and machine learning.
-* Teaching experience including lecturing course material up to postgraduate level, guest lecturing, supporting postgraduate and undergraduate project students, developing new modules, designing and marking coursework, and recognised Associate Fellow of the HEA (AFHEA).
-* Knowledgeable in machine learning, audio signal processing and their applications in audio effects, intelligent audio production, acoustics and source separation.
-* Active within academic networks, regularly publishing within communities, performing peer review and organising academic conferences.
-* Strong programming background and experience, including Python, C, C++, Matlab, Pure Data, BASH scripting, LaTeX, and version control systems including Git and Mercurial.
-* Experienced Project Manager and Supervisory roles. Technical expertise with audio event production and recording.
+
+* **AI and machine learning:** Extensive experience developing, evaluating and applying machine-learning methods across environmental science, Earth observation, marine science, computer vision and signal processing. Expertise includes deep learning, neural networks, computer vision, explainable AI, model evaluation and transferability, and emerging geospatial and foundation-model approaches.
+
+* **Environmental data science and Earth observation:** Experienced in applying AI and data-science methods to satellite Earth observation, ocean colour, marine ecosystems, environmental monitoring and biogeochemical modelling, with a strong focus on scientifically robust and interpretable approaches.
+
+* **Scientific and technical leadership:** Experienced in setting strategic direction for AI capability, leading multidisciplinary research, developing national research capability, and translating scientific requirements into effective and reusable AI solutions.
+
+* **Research strategy and development:** Experienced in scientific concept development, interdisciplinary collaboration, research proposals, work-package development, project planning and the development of new research directions across AI and environmental science.
+
+* **Research software and scientific computing:** Strong scientific programming and research-software background, particularly Python, Linux and Git, alongside experience with C, C++, MATLAB, Bash and LaTeX. Experienced in reproducible scientific workflows, machine-learning frameworks, geospatial computing and high-performance computing.
+
+* **Research methods:** Extensive experience in academic research, experimental design, statistics, model evaluation, scientific publishing, peer review, research software, reproducibility and the critical interpretation of AI-derived results.
+
+* **People and capability development:** Experienced in line management, mentoring, technical leadership, postgraduate supervision, building teams from the ground up and the development of researchers working in AI and data science.
+
+* **Teaching and knowledge exchange:** Associate Fellow of the Higher Education Academy (AFHEA), with experience in undergraduate and postgraduate teaching, doctoral training, professional researcher development, guest lecturing, course design and delivery, and specialist AI and Earth-observation training.
+
+* **Scientific communication and engagement:** Experienced invited speaker, trainer and scientific communicator, with experience communicating complex AI and environmental-science concepts to specialist researchers, students, interdisciplinary collaborators and wider stakeholder audiences.
+
+* **Audio, signal processing and real-time systems:** Research and engineering background in digital signal processing, machine listening, intelligent audio production, acoustics, source separation, sound synthesis and real-time audio systems.
+
 
 Publications
 ======
@@ -120,7 +143,7 @@ I have extensive experience in university teaching, postgraduate research superv
 
 ### Professional and Researcher Training
 
-I regularly develop and deliver specialist training in **artificial intelligence, machine learning and Earth observation**. This has included courses and workshops for NEODAAS and the Field Spectroscopy Facility, NCEO, EUMETSAT, the Trevor Platt Science Foundation, ML4EO and other national and international research communities.
+I regularly develop and deliver specialist training in **artificial intelligence, machine learning and Earth observation**. This has included courses and workshops for NEODAAS and the Field Spectroscopy Facility (FSF), NCEO, EUMETSAT, the Trevor Platt Science Foundation, Machine Learning for Earth observation (ML4EO) conference and other national and international research communities.
 
 My training combines the principles of machine learning with practical scientific applications, including preparing Earth observation data for AI, classification and regression, neural networks, computer vision, model evaluation and the development of robust machine-learning workflows.
 
