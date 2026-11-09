@@ -140,7 +140,7 @@ Selected Talks
   {% endfor %}</ul>
    -->
 
-Teaching and Research Supervision
+Teaching, Training and Research Supervision
 ======
 
 I have extensive experience in university teaching, postgraduate research supervision, doctoral training and professional researcher development. I am an **Associate Fellow of the Higher Education Academy (AFHEA)** and have designed and delivered teaching from undergraduate level through to specialist training for doctoral researchers and established scientists.
@@ -151,7 +151,7 @@ I regularly develop and deliver specialist training in **artificial intelligence
 
 My training combines the principles of machine learning with practical scientific applications, including preparing Earth observation data for AI, classification and regression, neural networks, computer vision, model evaluation and the development of robust machine-learning workflows.
 
-{{ base_path }}/teaching/
+A complete record of my teaching, researcher training and course delivery is available on my [Teaching and Training page]({{ base_path }}/teaching/).
 
 ### Doctoral Training
 
