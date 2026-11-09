@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -131,14 +131,8 @@ Selected Talks
 {% endfor %}
 </ul>
 
-{{ base_path }}/talks/
+A complete record of my public speaking and talks is available on my [Talks page]({{ base_path }}/talks/).
 
-<!-- Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-   -->
 
 Teaching, Training and Research Supervision
 ======
@@ -180,7 +174,3 @@ I supervise postgraduate research applying artificial intelligence, machine lear
 
 * **Satvik Venkatesh**, University of Plymouth, Second Supervisor, completed 2023
 
-  
-<!-- Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
