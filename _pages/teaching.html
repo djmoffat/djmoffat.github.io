@@ -6,6 +6,64 @@ author_profile: true
 ---
 
 {% include base_path %}
-{% for post in site.teaching reversed %}
+
+I have extensive experience in teaching and professional training across artificial intelligence, machine learning, Earth observation, environmental data science, computer science and audio technology. My teaching ranges from specialist researcher and doctoral training to undergraduate teaching, programme leadership and postgraduate research supervision.
+
+## Professional and Researcher Training
+
+{% assign professional_training = site.teaching
+  | where: "group", "Professional and Researcher Training"
+  | sort: "date"
+  | reverse %}
+
+{% for post in professional_training %}
   {% include archive-single.html %}
 {% endfor %}
+
+
+## Doctoral Training
+
+{% assign doctoral_training = site.teaching
+  | where: "group", "Doctoral Training"
+  | sort: "date"
+  | reverse %}
+
+{% for post in doctoral_training %}
+  {% include archive-single.html %}
+{% endfor %}
+
+
+## University Teaching and Programme Leadership
+
+{% assign university_teaching = site.teaching
+  | where: "group", "University Teaching and Programme Leadership"
+  | sort: "date"
+  | reverse %}
+
+{% for post in university_teaching %}
+  {% include archive-single.html %}
+{% endfor %}
+
+
+## Research Student Supervision
+
+I supervise postgraduate research applying artificial intelligence and machine learning across environmental science, Earth observation and related interdisciplinary applications. My supervision includes methodological development, research software, scientific interpretation and the development of robust machine-learning workflows.
+
+### Current PhD students
+
+- **Camila Toledo**, University of Exeter  
+  Second Supervisor, 2024–present
+
+- **Irene Monreal Campos**, University of East Anglia  
+  Fourth Supervisor, 2024–present
+
+- **Nuria Bachiller**, University of Exeter  
+  Third Supervisor, 2024–present  
+  *AI for river plume detection*
+
+### Completed PhD students
+
+- **Satvik Venkatesh**, University of Plymouth  
+  Second Supervisor, completed 2023
+
+My postgraduate supervision has spanned environmental AI, Earth observation, marine and aquatic science, and earlier applications of machine learning to audio and signal processing.
