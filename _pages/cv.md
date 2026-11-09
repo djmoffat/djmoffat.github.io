@@ -11,7 +11,6 @@ redirect_from:
 
 Profile
 ======
-
 AI and environmental data science research leader specialising in the development and application of artificial intelligence across Earth observation, marine science and environmental research. I lead national AI capability through NEODAAS and institutional AI and data science capability at Plymouth Marine Laboratory, combining scientific research, strategy, infrastructure, researcher development and interdisciplinary collaboration.
 
 My research interests include machine learning for Earth observation, marine computer vision, environmental modelling, ocean biogeochemistry, foundation models, explainable AI and the development of trustworthy and reusable AI methods for environmental science.
@@ -27,23 +26,18 @@ Education
 
 Scientific Leadership and National Capability
 ======
-
 I provide scientific and technical leadership in artificial intelligence for marine and environmental science, combining development of national research capability with leadership of interdisciplinary research, infrastructure, researcher training and organisational AI strategy.
 
 ### National AI and Earth Observation Capability
-
 I lead artificial intelligence activities within the NERC Earth Observation Data Analysis and AI Service (NEODAAS), supporting the UK environmental research community in the effective application of AI and machine learning to Earth observation. This includes research co-design, specialist technical advice, training, access to scalable computing infrastructure, and the development of reusable and robust AI workflows.
 
 ### AI Strategy and Research Leadership
-
 As AI and Data Science Lead at Plymouth Marine Laboratory, I lead the development of organisational AI capability and help set strategic direction for the application of AI across marine and environmental science. My research leadership spans Earth observation, marine computer vision, environmental modelling, ocean biogeochemistry, geospatial foundation models, explainable AI and responsible adoption of emerging AI technologies.
 
 ### Research Development and Funding
-
 I lead and contribute to collaborative research development across NERC, ESA, EC and other national and international programmes. This includes scientific concept development, interdisciplinary team building, technical design, work-package development, project planning and budgets. I have contributed to more than 20 research proposals with a combined value of approximately £6.8M.
 
 ### People and Community Leadership
-
 I provide line management, mentoring, postgraduate supervision and technical leadership for researchers working across AI and data science. I develop and deliver specialist AI and Earth-observation training for doctoral researchers, environmental scientists and the wider research community, and contribute to scientific strategy through invited talks, panels, peer review and national and international collaborations.
 
 Employment
