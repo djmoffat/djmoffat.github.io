@@ -172,5 +172,12 @@ I supervise postgraduate research applying artificial intelligence, machine lear
 
 **Completed PhD supervision**
 
+* **Clive Mead**, University of Plymouth, Second Supervisor, completed 2025
 * **Satvik Venkatesh**, University of Plymouth, Second Supervisor, completed 2023
+
+**Completed ResM Supervision**
+
+* **Ned Felnor**, University of Plymouth, Second Supervisor, completed 2021
+
+* **Clive Mead** 
 
